@@ -1,17 +1,23 @@
-<h1> [Your Project Title] </h1>
+<h1> Customer Prediction Model on  </h1>
 
 ## 1. Project Overview
-This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **[Your Problem Statements]**(mention business objectives, such as optimizing sales, reducing operational costs, customer segmentation, etc.).
+The goal of this project is to build a machine learning model to predict customers who are likely to subscribe to a term deposit based on  their profile and past campaign data. This will enable  the marketing team to run targeted campaigns, improvisngconversion rates and reducing costs 
 
 Key Objectives:
-- Objective 1: (E.g., Analyze customer purchasing patterns)
-- Objective 2: (E.g., Forecast future sales using machine learning)
-- Objective 3: (E.g., Identify high-value customer segments)
+- Objective 1: Identify potensial customers 
+- Objective 2: Shift from broad untargeted campaigns to data-driven targeted campaign 
+- Objective 3: Reduce Marketing Cost 
 
 ## 2. Data Sources
 - [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)
-- [Dataset 2](link) – Description of dataset (e.g., Customer demographic information)
-- ...
+
+Dataset Overview: 
+-Size: This dataset contains customer demographic, financial and marketing data
+-Key Featurs: 
+Demographic: Data, Age, Job, Housing, Loan 
+Financial Data: Balance
+Marketing Data: COntact Method, Month, Campiagn Outcomes
+Target Variable : Whther the customer subscribed to a term deposit (yes/no)
 
 ## 3. Technologies Used
 - Programming Language: Python (e.g., Pandas, NumPy)
@@ -50,11 +56,19 @@ Key Objectives:
 
 ## 5. Summary of Finding
 ### 5.1 Business Insight
-In this section, you can present the **actionable insights** derived from the analysis results.
-### 5.2 Actionable Recommendation
-In this section, you can offer **actionable business recommendations** to address the identified problems.
+5.1.1 Targeted Capaign Efficiency
+The model identifies high priority customers enabling the marketing team to focus teh resources where tehy are most effective. Thsi model is proven to reduced wasted payout by filtering out 8.3% of uninterested customers
+5.1.2 Cost Saving 
+Switching to a a argeted campaign saves 53% of the marketing budget compared to a broad campaigns. 
+5.1.3 Improved Conversion Rates 
+The model ensyres a higher conversion rate by prioritizing high and medium likelihood customers.
+5.1.4 This model able to make segmentation for startegy into high medium and low priority groups allowding for tailored marketing strategies. 
 
+
+### 5.2 Actionable Recommendation
+5.2.1 Focus on High Priority Customers where we can allocate resources to customers with a high likelihood of subscribing. We can use personalized marketing tactics such as tailored emails, phone calls or exclusive offers to engage these customers
+5.2.2 Tailor Campaigns for Medium Priority Customers where target customers with moderate subscription probabilities using cost effective methods. For this customers segment we can employ email campaigns, sms marketing, or general promotions to nurture this segment. 
 ## 6. Contact
-- Name: 
-- Email:
-- Linkedin:
+- Name: Bela Moneta
+- Email: belamoneta@gmail.com
+- Linkedin: belamoneta
