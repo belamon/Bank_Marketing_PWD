@@ -9,7 +9,7 @@ Key Objectives:
 - Objective 3: Reduce Marketing Cost 
 
 ## 2. Data Sources
-- [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)
+- [Dataset](https://drive.google.com/drive/folders/1gJOrrqEvgDeE_g-CtxHqh8lH1yuAUDuH?usp=sharing) - Description of dataset (e.g., Marketing data)
 
 Dataset Overview: 
 -Size: This dataset contains customer demographic, financial and marketing data
